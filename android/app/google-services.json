@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554562450279",
+    "firebase_url": "https://react-firebase-b233e.firebaseio.com",
+    "project_id": "react-firebase-b233e",
+    "storage_bucket": "react-firebase-b233e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554562450279:android:1abc5affe4df658760b5c2",
+        "android_client_info": {
+          "package_name": "id.co.pegadaian.ract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554562450279-7temt1ojgk01the277lql3qnvo83p550.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHfXcXeh2ro1UPVCw-3YC1lACM9NOjUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554562450279-7temt1ojgk01the277lql3qnvo83p550.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
